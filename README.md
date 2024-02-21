@@ -20,7 +20,7 @@ In this lab I am.....
 
 <p align="center">
 Virtual Network: <br/>
-<img src="(https://imgur.com/fLtx63P)" 
+<img src="(https://imgur.com/a/4JALAfD)" 
 <br />
 <br />
 Select the disk:  <br/>
