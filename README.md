@@ -20,7 +20,7 @@ In this lab I am.....
 
 <p align="center">
 Virtual Network: <br/>
-<img src="(https://imgur.com/fLtx63P)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://imgur.com/fLtx63P)" 
 <br />
 <br />
 Select the disk:  <br/>
