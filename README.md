@@ -21,8 +21,7 @@ In this lab I am.....
 <p align="center">
 Virtual Network: <br/>
 <img src="()" 
-<br />
-<br />
+
 Select the disk:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
