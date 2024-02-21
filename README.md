@@ -1,3 +1,4 @@
+
 <h1> Honeynet Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
@@ -17,7 +18,7 @@ In this lab I am.....
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
-
+![window-rdp-auth-fail](https://github.com/Ldavis36706/Honeynet/assets/159222943/4d2fc111-a9d0-45a9-af18-ba4d17a604fe)
 <p align="center">
 Virtual Network: <br/>
 <img src="()" 
