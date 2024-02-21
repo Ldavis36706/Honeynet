@@ -43,7 +43,7 @@ Sanitization complete:  <br/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src=""
+<img src="">
 </p>
 
 <!--
