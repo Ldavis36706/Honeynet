@@ -20,16 +20,13 @@ In this lab I am.....
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Virtual Network: <br/>
-![virtual network](https://github.com/Ldavis36706/Honeynet/assets/159222943/fbc892fd-a3e6-4d03-ab06-5698c1c5f9ca). 
-<br />
 
 Virtual Network with nsg: <br/>
 ![virtual network with nsg](https://github.com/Ldavis36706/Honeynet/assets/159222943/0f902ea2-983b-4c48-a019-c05edd1a05d3)
 <br />
 <br />
 MSSQL Authorization Failed: <br/>
-![mssql-auth-fail]<img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/bd1175be-fc27-44ee-acbe-408c59acaf8f)" height="80%" width="80%" alt=/>
+![mssql-auth-fail](https://github.com/Ldavis36706/Honeynet/assets/159222943/bd1175be-fc27-44ee-acbe-408c59acaf8f)" 
 <br />
 <br />
 Linux SSH Authorization Failed: <br/>
