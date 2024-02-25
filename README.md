@@ -19,8 +19,6 @@ In this lab I am.....
 
 <h2>Program walk-through:</h2>
 
-This is a map of the different locations where attackers tried to access my honeynet.
-![window-rdp-auth-fail](https://github.com/Ldavis36706/Honeynet/assets/159222943/4d2fc111-a9d0-45a9-af18-ba4d17a604fe)
 <p align="center">
 Virtual Network: <br/>
 <img src="()" 
@@ -41,6 +39,8 @@ Wait for process to complete (may take some time):  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+This is a map of the different locations where attackers tried to access my honeynet.
+![window-rdp-auth-fail](https://github.com/Ldavis36706/Honeynet/assets/159222943/4d2fc111-a9d0-45a9-af18-ba4d17a604fe)
 Sanitization complete:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
