@@ -21,7 +21,7 @@ In this lab I am.....
 
 <p align="center">
 Virtual Network: <br/>
-![virtual network](https://github.com/Ldavis36706/Honeynet/assets/159222943/fbc892fd-a3e6-4d03-ab06-5698c1c5f9ca) 
+![virtual network](https://github.com/Ldavis36706/Honeynet/assets/159222943/fbc892fd-a3e6-4d03-ab06-5698c1c5f9ca). 
 
 Virtual Network with nsg:  <br/>
 ![virtual network with nsg](https://github.com/Ldavis36706/Honeynet/assets/159222943/0f902ea2-983b-4c48-a019-c05edd1a05d3)
@@ -39,12 +39,8 @@ This is a map of the different locations where attackers tried to access my hone
 ![window-rdp-auth-fail](https://github.com/Ldavis36706/Honeynet/assets/159222943/4d2fc111-a9d0-45a9-af18-ba4d17a604fe)
 <br />
 <br />
-This is the statistics for my honeynet prior to securing my environment:  <br/>
+These are the statistics showing the difference between my network being unsecured versus being secured:  <br/>
 ![Before results](https://github.com/Ldavis36706/Honeynet/assets/159222943/cfc271be-7531-47ac-b8da-7d454db803b2)
-<br />
-<br />
-This is the statistics for my honeynet after securing my environment:  <br/>
-![After results](https://github.com/Ldavis36706/Honeynet/assets/159222943/75cee9d3-82cc-44fe-930b-43f54789157f)
 <br />
 <br />
 <!--
