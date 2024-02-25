@@ -32,11 +32,7 @@ MSSQL Authorization Failed: <br/>
 <br />
 <br />
 Linux SSH Authorization Failed: <br/>
-<img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/a19f71bf-ca9b-4966-9dbb-2ce74905bc38)" height="80%" width="80%" alt=/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![linux-ssh-auth-fail](https://github.com/Ldavis36706/Honeynet/assets/159222943/a19f71bf-ca9b-4966-9dbb-2ce74905bc38)
 <br />
 <br />
 This is a map of the different locations where attackers tried to access my honeynet.
