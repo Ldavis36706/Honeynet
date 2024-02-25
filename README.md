@@ -21,14 +21,14 @@ In this lab I am.....
 
 <p align="center">
 Virtual Network: <br/>
-<img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/fbc892fd-a3e6-4d03-ab06-5698c1c5f9ca)" 
+![virtual network](https://github.com/Ldavis36706/Honeynet/assets/159222943/fbc892fd-a3e6-4d03-ab06-5698c1c5f9ca) 
 
 Virtual Network with nsg:  <br/>
-<img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/0f902ea2-983b-4c48-a019-c05edd1a05d3)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![virtual network with nsg](https://github.com/Ldavis36706/Honeynet/assets/159222943/0f902ea2-983b-4c48-a019-c05edd1a05d3)
 <br />
 <br />
 MSSQL Authorization Failed: <br/>
-<img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/bd1175be-fc27-44ee-acbe-408c59acaf8f)" height="80%" width="80%" alt=/>
+![mssql-auth-fail]<img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/bd1175be-fc27-44ee-acbe-408c59acaf8f)" height="80%" width="80%" alt=/>
 <br />
 <br />
 Linux SSH Authorization Failed: <br/>
@@ -40,11 +40,11 @@ This is a map of the different locations where attackers tried to access my hone
 <br />
 <br />
 This is the statistics for my honeynet prior to securing my environment:  <br/>
-<img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/cfc271be-7531-47ac-b8da-7d454db803b2)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Before results](https://github.com/Ldavis36706/Honeynet/assets/159222943/cfc271be-7531-47ac-b8da-7d454db803b2)
 <br />
 <br />
 This is the statistics for my honeynet after securing my environment:  <br/>
-<img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/75cee9d3-82cc-44fe-930b-43f54789157f)"
+![After results](https://github.com/Ldavis36706/Honeynet/assets/159222943/75cee9d3-82cc-44fe-930b-43f54789157f)
 <br />
 <br />
 <!--
