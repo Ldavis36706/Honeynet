@@ -30,10 +30,9 @@ Virtual Network with nsg:  <br/>
 MSSQL Authorization Failed: <br/>
 <img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/bd1175be-fc27-44ee-acbe-408c59acaf8f)" height="80%" width="80%" alt=/>
 <br />
+<br />
 Linux SSH Authorization Failed: <br/>
 <img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/a19f71bf-ca9b-4966-9dbb-2ce74905bc38)" height="80%" width="80%" alt=/>
-<br />
-
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
@@ -42,15 +41,16 @@ Wait for process to complete (may take some time):  <br/>
 <br />
 This is a map of the different locations where attackers tried to access my honeynet.
 ![window-rdp-auth-fail](https://github.com/Ldavis36706/Honeynet/assets/159222943/4d2fc111-a9d0-45a9-af18-ba4d17a604fe)
-
-
+<br />
+<br />
 This is the statistics for my honeynet prior to securing my environment:  <br/>
 <img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/cfc271be-7531-47ac-b8da-7d454db803b2)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 This is the statistics for my honeynet after securing my environment:  <br/>
 <img src="(https://github.com/Ldavis36706/Honeynet/assets/159222943/75cee9d3-82cc-44fe-930b-43f54789157f)"
-
+<br />
+<br />
 <!--
  ```diff
 - text in red
