@@ -4,14 +4,8 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this lab I am.....
+In this lab I created a honeynet. I intially created my environment without in security controls in place. I left my environment in a vunerable state for 24 hours. I observed all of the activity. I documented my unsecured environment with a map.
 <br />
-<h2>List Header</h2>
-+Lakesha Hunter
-+Livingston Hunter
-+Taeshaun Hunter
-+Malik Hunter
-+Nia Hunter
 
 <h2>Languages and Utilities Used</h2>
 
