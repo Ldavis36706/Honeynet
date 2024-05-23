@@ -4,7 +4,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this lab I created a honeynet. I intially created my environment without in security controls in place. I left my environment in a vunerable state for 24 hours. I observed all of the activity. I documented my unsecured environment with a map.
+In this lab I created a honeynet. I intially created my environment without any security controls in place. I left my environment unsecured for 24 hours. I observed attackers from all over the world try to compromise my environment. I documented my unsecured environment with a map. The next day I put security controls in place that align with NIST Cybersecurity Framework. I observed my environment after securing it and noticed a 92% reduction of vulnerabilities. 
 <br />
 
 <h2>Languages and Utilities Used</h2>
